@@ -34,7 +34,7 @@ export default function ExperiencePage() {
                       <span className="text-accent text-sm font-bold font-code">{exp.period}</span>
                     </div>
                     <p className="text-foreground/70 font-bold uppercase text-xs tracking-widest">{exp.company}</p>
-                    <p className="text-muted-foreground leading-relaxed">{exp.description}</p>
+                    <p className="text-muted-foreground leading-relaxed whitespace-pre-wrap">{exp.description}</p>
                     <div className="p-5 rounded-xl bg-accent/5 border border-accent/10">
                       <h4 className="text-xs font-bold text-accent uppercase tracking-widest mb-2">Key Impact</h4>
                       <p className="text-sm text-foreground/80 leading-relaxed italic">{exp.impact}</p>
