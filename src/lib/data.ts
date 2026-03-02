@@ -22,6 +22,13 @@ My short-term goal is to continue advancing in network security and cloud archit
       impact: "Improved system uptime and reduced service interruptions through proactive troubleshooting and maintenance."
     },
     {
+      title: "Network/Security Administrator",
+      company: "Atlantic Towing & Motors",
+      period: "July 2018 – June 2021",
+      description: "Monitored and triaged 100+ daily security events using Splunk and Syslog; identified 12+ high-priority incidents including port scans and unauthorized access. Managed advanced switching technologies (VLANs, Trunking, VTP, STP) and applied NIST-compliant firmware patches.",
+      impact: "Monitored 100+ daily security events, identifying critical threats and reducing MTTR by 30% through cyber readiness drills. Optimized network performance using VLANs, Trunking, VTP, and STP, while ensuring NIST-compliant patching and proactive threat detection."
+    },
+    {
       title: "Offshore Marine Engineer",
       company: "TransOcean Shipping",
       period: "2010 - 2017",
