@@ -30,6 +30,13 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  experimental: {
+    turbopack: {
+      // Set the root directory to the current working directory to avoid workspace root warnings
+      // which can sometimes interfere with hot-reloading and compilation.
+      root: '.',
+    },
+  },
 };
 
 export default nextConfig;

@@ -25,7 +25,7 @@ My short-term goal is to continue advancing in network security and cloud archit
       title: "Network/Security Administrator",
       company: "Atlantic Towing & Motors",
       period: "July 2018 – June 2021",
-      description: "• Monitored and triaged 100+ daily security events using Splunk and Syslog; identified 12+ high-priority incidents (port scans, malformed packets, unauthorized access).\n• Employed and monitored advanced switching technologies such as VLANs, Trunking, VTP, and STP to optimize network performance and resilience.\n• Applied firmware and patches in compliance with organization-aligned NIST policies.",
+      description: "• Monitored and triaged 100+ daily security events using Splunk and Syslog; identified 12+ high-priority incidents (port scans, malformed packets, unauthorized access).\n\n• Employed and monitored advanced switching technologies such as VLANs, Trunking, VTP, and STP to optimize network performance and resilience.\n\n• Applied firmware and patches in compliance with organization-aligned NIST policies.",
       impact: "Monitored 100+ daily security events, identifying critical threats and reducing MTTR by 30% through cyber readiness drills. Optimized network performance using VLANs, Trunking, VTP, and STP, while ensuring NIST-compliant patching and proactive threat detection."
     },
     {

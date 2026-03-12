@@ -5,9 +5,9 @@ import { AIContentPolisher } from '@/components/AIContentPolisher';
 
 export default function ExperiencePage() {
   const getIcon = (title: string) => {
-    if (title.includes('Army')) return Shield;
-    if (title.includes('Construction')) return Hammer;
-    if (title.includes('Marine')) return Anchor;
+    if (title.toLowerCase().includes('army')) return Shield;
+    if (title.toLowerCase().includes('construction')) return Hammer;
+    if (title.toLowerCase().includes('marine')) return Anchor;
     return Terminal;
   };
 
